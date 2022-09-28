@@ -2,8 +2,8 @@
 
 int main(){
 
-	int i=0;
-	int j=0;
+	int i=50;
+	int j=50;
 
 	return 0;
 
